@@ -1,0 +1,4 @@
+linuxcoin
+=========
+
+Cryptocurrency coin
